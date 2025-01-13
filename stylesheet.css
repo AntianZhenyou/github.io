@@ -1,0 +1,72 @@
+.container{
+  width:1600px;
+  height:100px;
+  background-color: #e0ebaf	;
+}
+
+.header-left{
+  float:left;
+  line-height:50px;
+  font-family:"游ゴシック";
+  padding-left:20px;
+  
+}
+
+.header-right{
+  float:right;
+  font-size:10px;
+  font-family:"游ゴシック";
+  padding-right:40px;
+}
+
+
+.text-wrapper{
+  height:800px;
+  width:1600px;
+  background-image:url(https://www.ghibli.jp/images/kaguya1.jpg);
+  background-size:cover;
+}
+
+.text-wrapper h1{
+  font-size:20px;
+  padding:0 30px;
+  font-family:"游ゴシック";
+}
+
+.text-wrapper ul{
+  padding:0 100px;
+  font-family:"游ゴシック" ;
+  font-size:16px;
+}
+
+.box{
+  height:100%;
+  background-color:rgba(255,255,255,0.5);
+  justify-content:center;
+  align-items:center;
+}
+
+
+.contents-wrapper{
+  height:800px;
+}
+
+footer{
+  width:1600px;
+  height:130px;
+  background-color:#e0ebaf;
+}
+
+.footer-left{
+  float:left;
+  padding:0 30px;
+  font-family:"游ゴシック";
+
+}
+
+.footer-right{
+  float:right;
+  font-size:20px;
+  font-family:"游ゴシック";
+  
+}
